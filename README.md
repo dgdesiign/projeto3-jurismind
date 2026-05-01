@@ -1,8 +1,8 @@
 ```bash
-cd /workspaces/projeto3-jurismind && \
-cat > README.md << 'EOF'
 # ⚖️ JurisMind – Assistente Jurídico com IA
+```
 
+```bash
 ![Python](https://img.shields.io/badge/python-3.12-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.115-green)
 ![IA](https://img.shields.io/badge/IA-OpenRouter-purple)
